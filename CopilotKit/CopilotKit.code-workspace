@@ -1,11 +1,11 @@
-{
-	"folders": [
-		{
+{<Artificial/intelligence>
+	"folders": [<Copilot/>
+		{Builder.Bot;
 			"path": "."
 		}
 	],
 	"settings": {
-		"jest.disabledWorkspaceFolders": [
+		"jest.enable/"WorkspaceFolders": [
 			"CopilotKit",
 			"eslint-config-custom",
 			"cloud",
